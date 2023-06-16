@@ -8,18 +8,14 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: DishesOpaque
-  m_Shader: {fileID: 4800000, guid: 933532a4fcc9baf4fa0491de14d08ed7, type: 3}
-  m_ValidKeywords:
-  - _EMISSION
-  - _NORMALMAP
-  - _OCCLUSIONMAP
+  m_Shader: {fileID: -6465566751694194690, guid: e7147e8f1ee0b1d42b8973eb76420224, type: 3}
+  m_ValidKeywords: []
   m_InvalidKeywords: []
   m_LightmapFlags: 1
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
   m_CustomRenderQueue: -1
-  stringTagMap:
-    RenderType: Opaque
+  stringTagMap: {}
   disabledShaderPasses: []
   m_SavedProperties:
     serializedVersion: 3
@@ -64,6 +60,22 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_6c08133eb5d440d3a2596f5b3fbde224_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 42532424dd4c4be46985bc0a8f1e018b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_9229234bd9b6402dbc7161ec83339fba_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 93b18faa2f46d254d812a6d52de165a6, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_bbc0405f219f4c15a877c2cd88c50624_Texture_1:
+        m_Texture: {fileID: 2800000, guid: c0cb15d88d53aec469e2a0629e96e036, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_d5a15a02b91044089b202019d3cf92fc_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 9df0df37ee69a7f44b64877e2de4145a, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _SpecGlossMap:
         m_Texture: {fileID: 2800000, guid: 80e7c9acbf99550448df6138b932b898, type: 3}
         m_Scale: {x: 1, y: 1}
@@ -101,6 +113,7 @@ Material:
     - _Mode: 0
     - _OcclusionStrength: 0.278
     - _Parallax: 0.08
+    - _QueueControl: 0
     - _QueueOffset: 0
     - _ReceiveShadows: 1
     - _Smoothness: 0.5
