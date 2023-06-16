@@ -12,6 +12,11 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: chao
+    second: {fileID: 2100000, guid: ad8f242961f3bce4baa98663b586d0a1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: chao verde
     second: {fileID: 2100000, guid: 0e86c3a2c9f3db2428a34f6bd447f1ef, type: 2}
   - first:
@@ -34,6 +39,11 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: normal
     second: {fileID: 2100000, guid: 365b3bf5c8257b14e96dca1a607878af, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: prateleiras
+    second: {fileID: 2100000, guid: f56a1529c61ac794e9a8325687371c2f, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
