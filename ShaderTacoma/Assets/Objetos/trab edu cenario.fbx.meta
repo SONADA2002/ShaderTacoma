@@ -52,6 +52,11 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: teto
+    second: {fileID: 2100000, guid: 7f8bb37916e421f4183cdc7e09e104b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: verde parede
     second: {fileID: 2100000, guid: 8c87be413733f7e4dbef41d2f8c76507, type: 2}
   materials:
