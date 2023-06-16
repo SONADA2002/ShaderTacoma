@@ -264,6 +264,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: b7586a5a3e10b6f429a9463e6cd808dd, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 8c4259eeb07b109408bdd79cdc83b028, type: 2}
+    - target: {fileID: -7511558181221131132, guid: b7586a5a3e10b6f429a9463e6cd808dd, type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: b5315d36ba655dd4087d7224c891865a, type: 2}
     - target: {fileID: 919132149155446097, guid: b7586a5a3e10b6f429a9463e6cd808dd, type: 3}
       propertyPath: m_Name
       value: trab edu vaso  (1)
@@ -2108,6 +2116,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: b7586a5a3e10b6f429a9463e6cd808dd, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 8c4259eeb07b109408bdd79cdc83b028, type: 2}
+    - target: {fileID: -7511558181221131132, guid: b7586a5a3e10b6f429a9463e6cd808dd, type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: b5315d36ba655dd4087d7224c891865a, type: 2}
     - target: {fileID: 919132149155446097, guid: b7586a5a3e10b6f429a9463e6cd808dd, type: 3}
       propertyPath: m_Name
       value: trab edu vaso  (2)
@@ -2703,6 +2719,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: b7586a5a3e10b6f429a9463e6cd808dd, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: e66797c2431cd5441a766bb1e831568b, type: 2}
+    - target: {fileID: -7511558181221131132, guid: b7586a5a3e10b6f429a9463e6cd808dd, type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: b5315d36ba655dd4087d7224c891865a, type: 2}
     - target: {fileID: 919132149155446097, guid: b7586a5a3e10b6f429a9463e6cd808dd, type: 3}
       propertyPath: m_Name
       value: trab edu vaso  (4)
@@ -3183,6 +3207,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: b7586a5a3e10b6f429a9463e6cd808dd, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: e66797c2431cd5441a766bb1e831568b, type: 2}
+    - target: {fileID: -7511558181221131132, guid: b7586a5a3e10b6f429a9463e6cd808dd, type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: b5315d36ba655dd4087d7224c891865a, type: 2}
     - target: {fileID: 919132149155446097, guid: b7586a5a3e10b6f429a9463e6cd808dd, type: 3}
       propertyPath: m_Name
       value: 'trab edu vaso '
@@ -3408,6 +3440,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: b7586a5a3e10b6f429a9463e6cd808dd, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: e66797c2431cd5441a766bb1e831568b, type: 2}
+    - target: {fileID: -7511558181221131132, guid: b7586a5a3e10b6f429a9463e6cd808dd, type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: b5315d36ba655dd4087d7224c891865a, type: 2}
     - target: {fileID: 919132149155446097, guid: b7586a5a3e10b6f429a9463e6cd808dd, type: 3}
       propertyPath: m_Name
       value: trab edu vaso  (3)
